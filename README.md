@@ -53,6 +53,6 @@ SERVE_PORT=8001 を設定すると、ポート8001でListenする
 
 MIT
 
-except [\_reset.scss](src/client/scss/_reset.scss) (public domain)
+except [\_reset.scss](src/client/sass/_reset.scss) (public domain)
 
 
